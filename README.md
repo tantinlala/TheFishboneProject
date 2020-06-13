@@ -28,7 +28,7 @@ The head of the fishbone diagram should contain a brief summary of the incident 
 Subtopics should either:
 1) Answer the question of WHY from a WHY-related parent topic or the head of the diagram
 2) Propose a SOLUTION to a WHY-related parent topic
-3) Explain a BARRIER to implementing the policy proposed in the SOLUTION-related parent topic
+3) Explain a BARRIER to implementing the policy proposed in a SOLUTION-related parent topic
 4) Propose an action a citizen can take to help eliminate the barrier described in a BARRIER-related parent topic
 
-If possible, add a reference to any external documents supporting the claims made in all subtopics. This can be a news article, a publication, a book, etc. The reference should be added as a note attached to the subtopic. If possible, add any related quotes from the document to the note. Any subtopics without an associated reference will be easily identified as an assumption/theory. Assumptions/theories are not discouraged, as they are useful for the brainstorming process. **However, note that proposing a solution off of an assumption/theory that does not have supporting evidence is less convincing that proposing a solution off of a claim with supporting evidence.**
+If possible, add a reference to any external documents supporting the claims made in all subtopics. This can be a news article, a publication, a book, etc. The reference should be added as a note attached to the subtopic. If possible, add any related quotes from the document to the note. Any subtopics without an associated reference will be easily identified as an assumption/theory. Assumptions/theories are not discouraged, as they are useful for the brainstorming process. **However, keep in mind that proposing a solution off of an assumption/theory that does not have supporting evidence is less convincing that proposing a solution off of a claim with supporting evidence.**
