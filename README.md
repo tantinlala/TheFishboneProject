@@ -5,11 +5,21 @@ For more details on this project, please see the following document:
 https://docs.google.com/document/d/1xG1w0Y_Nvqp_WWqnbBdi3uOyZVYoA6VE1zIdaNaDR1E/edit?usp=sharing
 
 ## How to Contribute
+### Tools Used
 The tool used to create the fishbone diagrams in this project is XMind (https://www.xmind.net). The free version has all the features needed to contribute to this project.
 
 Another tool I would recommend downloading is Sourcetree (https://www.sourcetreeapp.com). This application makes the process of project collaboration through git/github easier and more intuitive compared to git's normal command-line interface.
 
-To collaborate, first create a github account. Then, message me with your github username. I will add you as a collaborator. If you want to add a new incident, create a branch off of "forPublicViewing" with "incident/" pre-appended to your name for the incident (e.g. incident/philandoCastile). In your branch, create a new folder with the name of your incident. This new folder is where the XMind document will be stored, along with any associated documents related to the incident. When you are ready to publish your fishbone diagram for the incident for public viewing, create a pull request to merge your branch into "forPublicViewing" and tag a fellow collaborator for review. Approval from a collaborator is required before merging into "forPublicViewing". When the pull request/review has been approved, and the branch has been merged into "forPublicViewing", we will share the XMind document to the following gallery: https://www.xmind.net/share/ and link to the published diagram on the google doc linked above.
+### How To Collaborate With Git/Github
+1. Create a github account
+
+2. Message me with your github username. I will add you as a collaborator.
+
+3. If you want to add a new incident, create a branch off of "forPublicViewing" with "incident/" pre-appended to your name for the incident (e.g. incident/philandoCastile). In your branch, create a new folder with the name of your incident. This new folder is where the XMind document will be stored, along with any associated documents related to the incident.
+
+4. When you want to publish your fishbone diagram for the incident for public viewing, create a pull request to merge your branch into "forPublicViewing" and tag a fellow collaborator for review. Approval from a collaborator is required before merging into "forPublicViewing".
+
+5. When the pull request/review has been approved, and the branch has been merged into "forPublicViewing", we will share the XMind document to the following gallery: https://www.xmind.net/share/ and link to the published diagram on the google doc linked above.
 
 ## Best Practices
 
