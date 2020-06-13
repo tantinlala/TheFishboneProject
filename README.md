@@ -1,4 +1,4 @@
-# TheFishboneProject
+# The Fishbone Project
 A collaborative project aimed at learning why incidents of police violence against black Americans happen and what we, as regular citizens, can do to prevent further incidents.
 
 For more details on this project, please see the following document:
