@@ -17,9 +17,9 @@ Another tool I would recommend downloading is Sourcetree (https://www.sourcetree
 
 3. If you want to add a new incident, create a branch off of "forPublicViewing" with "incident/" pre-appended to your name for the incident (e.g. incident/philandoCastile). In your branch, create a new folder with the name of your incident. This new folder is where the XMind document will be stored, along with any associated documents related to the incident.
 
-4. When you want to publish your fishbone diagram for the incident for public viewing, create a pull request to merge your branch into "forPublicViewing" and tag a fellow collaborator for review. Approval from a collaborator is required before merging into "forPublicViewing".
+4. When you want to publish your fishbone diagram for the incident for public viewing, create a pull request to merge your branch into "publish" and tag a fellow collaborator for review. Approval from a collaborator is required before merging into "publish".
 
-5. When the pull request/review has been approved, and the branch has been merged into "forPublicViewing", we will share the XMind document to the following gallery: https://www.xmind.net/share/ and link to the published diagram on the google doc linked above.
+5. When the pull request/review has been approved, and the branch has been merged into "publish", we will share the XMind document to the following gallery: https://www.xmind.net/share/ and link to the published diagram on the google doc linked above.
 
 ## Best Practices
 
