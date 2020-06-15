@@ -46,3 +46,11 @@ Explain BARRIERs to implementing the SOLUTION proposed
 Explain actions that a citizen can take to help eliminate the BARRIERs described
 
 If possible, add a reference to any external documents supporting the claims made in your solution diagram.
+
+### Reaching Consensus
+There are many ways of reaching consensus on whether or not to merge into "publish". I have been looking into the success of wikipedia as an initial model for consensus building, but as we learn more and bring in more collaborators, I imagine that the process we use will shape itself to suit the specific needs of this project:
+
+https://en.wikipedia.org/wiki/Wikipedia:Consensus
+https://en.wikipedia.org/wiki/Wikipedia:BOLD,_revert,_discuss_cycle
+
+The part of the wikipedia model that I believe we should always promote is to BE BOLD. When in doubt, propose changes to be merged into publish.
