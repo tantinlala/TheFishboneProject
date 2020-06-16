@@ -54,3 +54,5 @@ https://en.wikipedia.org/wiki/Wikipedia:Consensus
 https://en.wikipedia.org/wiki/Wikipedia:BOLD,_revert,_discuss_cycle
 
 The part of the wikipedia model that I believe we should always promote is to BE BOLD. When in doubt, propose changes to be merged into publish.
+
+If possible, try to work with as many people as possible on the same branch. Getting buy-in from other collaborators off the bat makes it more likely that consensus will be reached and your pull request will be approved. This repository currently has the rule in place that approval from two other collaborators is required on your pull request first before you are allowed to merge into "publish". This rule was put in place with the intent of encourging collaboration with others.
